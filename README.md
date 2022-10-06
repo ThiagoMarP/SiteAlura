@@ -1,6 +1,4 @@
-# Site Alura
-Fiz esse <em>site</em> em HTML e CSS
-<br>
+<h1 align="center"> 👨🏻‍💻 Fiz esse <em>site</em> em HTML e CSS </h1>
 <p>  Alguns tópicos sobre o que eu aprendi:</p>
 <ul>
 <li>Como criar uma página Web</li>
@@ -9,3 +7,4 @@ Fiz esse <em>site</em> em HTML e CSS
 <li>Opacidade e sombra</li>
 <li>Viewport e design responsivo</li>
 </ul>
+  <a href="https://youtu.be/-2IVTcQ0AyQ">🎥 Vídeo do Protótipo 🎥</a>
